@@ -1,0 +1,21 @@
+{
+  "name": "S99KH",
+  "short_name": "S99KH",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#deaa94",
+  "description": "Toko online S99KH Discount - Belanja mudah, cepat, dan hemat di Blogger!",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzUNpQQvhNwWp8fFAiTX6L4Iu3c0cddamw04kpJMabzXpbWL7IlYhvR5BEI99yKpSTndLDfG-aA1kA7T73K56e931hV40lvKwcE1PysabYS6M5HLX8AhN0Y58-aWjNy0bhvb7CiFZbnrSEC1I2vYIktnLgD9not0ttcCjmSp4fZ3UUFentQLx3u3jtdCA/s300/BackgroundEraser_20260610_035659947.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzUNpQQvhNwWp8fFAiTX6L4Iu3c0cddamw04kpJMabzXpbWL7IlYhvR5BEI99yKpSTndLDfG-aA1kA7T73K56e931hV40lvKwcE1PysabYS6M5HLX8AhN0Y58-aWjNy0bhvb7CiFZbnrSEC1I2vYIktnLgD9not0ttcCjmSp4fZ3UUFentQLx3u3jtdCA/s300/BackgroundEraser_20260610_035659947.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
